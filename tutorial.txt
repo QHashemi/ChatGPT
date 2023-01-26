@@ -1,0 +1,3 @@
+# Create vanilla javscript Repository 
+
+npm create vite@latest client --template vanilla
